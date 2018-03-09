@@ -13,6 +13,7 @@ public class Test4 {
         scan.nextLine();
         String s = scan.nextLine();
         scan.close();
+        
         System.out.println("test");
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
